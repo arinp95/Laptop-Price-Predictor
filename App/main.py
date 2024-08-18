@@ -20,7 +20,7 @@ st.markdown(
 )
 
 # Import model and data
-st.title("Laptop Price Predictor 💻")
+st.title("The Laptop Economist 💻")
 pipe = pickle.load(open("pipe.pkl", "rb"))
 df = pd.read_parquet('df.parquet', engine='pyarrow')
 
