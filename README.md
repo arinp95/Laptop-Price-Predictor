@@ -38,5 +38,6 @@ The main steps involved in this project are:
 
 7. Model Selection and Deployment: The model with the best performance is selected and deployed for predicting laptop prices.
 
-## 🌐 Streamlit Web Application
+## 🌐 Streamlit Web Application -- [https://the-laptop-economist.streamlit.app/]
 A Streamlit web application is developed for easy user interaction with the model. 
+
