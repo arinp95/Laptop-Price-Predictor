@@ -37,7 +37,9 @@ The main steps involved in this project are:
    - Stacking Regressor
 
 7. Model Selection and Deployment: The model with the best performance is selected and deployed for predicting laptop prices.
+![The Laptop Economist](https://github.com/user-attachments/assets/49b6834a-009b-4afe-97fa-09c2dfdce0f6)
 
 ## 🌐 Streamlit Web Application -- [https://the-laptop-economist.streamlit.app/]
+
 A Streamlit web application is developed for easy user interaction with the model. 
 
