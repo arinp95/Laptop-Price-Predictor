@@ -1,5 +1,5 @@
 This project provides valuable insights into the factors that influence laptop prices and can be used to make informed decisions when buying a laptop.
-# Laptop Price Predictor 💻
+# The Laptop Economist 💻
 
 A machine learning regression project aimed at predicting laptop prices using a dataset of around 1400 data points sourced from Kaggle. 
 
