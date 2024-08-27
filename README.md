@@ -6,7 +6,6 @@ A machine learning regression project aimed at predicting laptop prices using a 
 **Dataset:** [Laptop Price Dataset](https://www.kaggle.com/datasets/birajkhatri/laptop-price-datasets)
 
 ## 📈 Project Workflow
-# Laptop_Price_Prediction
 This project aims to predict laptop prices based on various features using regression models.
 
 The main steps involved in this project are:
